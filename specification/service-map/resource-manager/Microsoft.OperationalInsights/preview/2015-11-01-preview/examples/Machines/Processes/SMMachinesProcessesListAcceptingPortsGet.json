@@ -11,6 +11,7 @@
 	},
 	"responses": {
 		"200": {
+			"body": {
 			"value": [{
 					"kind": "port",
 					"properties": {
@@ -65,5 +66,6 @@
 				}
 			]
 		}
+	}
 	}
 }
